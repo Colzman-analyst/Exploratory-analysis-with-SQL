@@ -8,7 +8,7 @@ Thanks! Based on your uploaded SQL script (`exploratory_data-db.sql`), here’s 
 
 ## 📂 About The Project
 
-![EDA SQL Screenshot](#)
+![EDA SQL Screenshot](#)<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/359acb0c-92f1-497b-a24a-5702c2d0c2c7" />
 
 This project performs structured **Exploratory Data Analysis (EDA)** using SQL to uncover key patterns, distributions, and trends in global layoffs data. It's an extension of the earlier data cleaning process and focuses on slicing the data across time, geography, industry, and company.
 
